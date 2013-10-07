@@ -1,0 +1,12 @@
+"USBBarCodeReader" is a library which purpose is to offer an easy and quick access to Usb BarCode devices.
+
+Our support begin from API level 14 to 18 at the moment, mainly due to USB host feature, but we will improve earlier support soon.
+
+#todo (by priority and possibility)#
+*Add a discrimination sequence to improve barcode reader detection, and not only virtual or physical device.
+
+#Changelog#
+v0.2: GPL licensing for GitHub and initial commit.
+v0.1: initial Library design and main conversion of data to String containing the BarCode all within an event.
+
+Everything is under copyright 2013 by Meï-Garino Jérémy.
